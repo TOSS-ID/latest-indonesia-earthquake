@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="latestearthquakeindonesia",
-    version="0.0.1",
+    name="latestinfoearthquakeindonesia",
+    version="0.0.3",
     author="Hendra Go",
     author_email="hendrago91@gmail.com",
     description="This package will get the latest earthquake from BMKG | Meteorological, Climatological, and "
